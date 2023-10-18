@@ -1,5 +1,5 @@
 # Google-Sheets-Battleship
-This is an implementation of the classic Battleship game in Google Sheets, controlled purely by cell referencing and conditional formatting.
+This is an implementation of the classic Battleship game in Google Sheets, controlled purely by cell referencing, sheets commands, and conditional formatting.
 
 Link: https://docs.google.com/spreadsheets/d/1njceFF5mxB-Pvi6dLGNkWZzF-GZuSo2MnydPrMVKxQQ/edit?usp=sharing
 
